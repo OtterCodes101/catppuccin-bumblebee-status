@@ -1,0 +1,15 @@
+{
+	"icons": [ "ascii" ],
+	"defaults": {
+		"bg": "#eff1f5",
+		"fg": "#4c4f69",
+		"critical": {
+			"bg": "#eff1f5",
+			"fg": "#d20f39"
+		},
+		"warning": {
+			"bg": "#eff1f5",
+			"fg": "#df8e1d"
+		}
+	}
+}		
